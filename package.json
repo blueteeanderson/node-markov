@@ -1,0 +1,15 @@
+{
+  "name": "markov",
+  "version": "1.0.0",
+  "description": "",
+  "main": "markov.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tee Anderson",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "string-strip-html": "^13.4.2"
+  }
+}
